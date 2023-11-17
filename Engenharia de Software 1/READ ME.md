@@ -8,4 +8,4 @@ Comentário: A engenharia de software está integrada na passsagem do tempo, e c
 
 ## Projeto Biblioteca
 
-![/assets/images/Diagrama de Classes.png]
+![Diagrama de Classes](https://github.com/LuisaAndrade28/Bertoti/blob/main/Engenharia%20de%20Software%201/C%C3%B3digo%20Especificacao.png)
