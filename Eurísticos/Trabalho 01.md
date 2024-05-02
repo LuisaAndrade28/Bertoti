@@ -32,16 +32,23 @@
 
 5️⃣ **Prevenção de Erros**  
 "Os usuários geralmente executam ações por engano. Eles precisam de uma 'saída de emergência' claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado."  
-- Exemplo: Ao tentar apagar um repositório no Github a plataforma existe meios de confirmação para que não ocorra erros acideintais e o repositório seja apagado por engano. 
- 
+- Exemplo: Ao tentar apagar um repositório no Github a plataforma existe meios de confirmação para que não ocorra erros acideintais e o repositório seja apagado por engano.
+
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/ca2772f8-043d-43b6-9166-10e875fc4cd5" width="400"><img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/f21957c5-94e9-4b4e-b83e-147f35058b44" width="400">
+
 6️⃣ **Reconhecimento em Vez de Lembrança**  
 "Minimize a carga de memória do usuário tornando elementos, ações e opções visíveis."  
 - Exemplo: O Gmail e a Microsoft facilitam o reconhecimento e login salvando contas e senhas utilizadas.
- 
+
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/0a961970-11c0-4ff9-a594-787dfeeb957d" width="400">
+
 7️⃣ **Flexibilidade e Eficiência de Uso**  
 "Os atalhos podem acelerar a interação para o usuário experiente para que o design possa atender tanto usuários inexperientes quanto experientes."  
-- Exemplo: Ausência de acesso para retornar à tela anterior.
- 
+- Exemplo: No VSCode é possível abrir o terminal por meio do atalho "ctrl + " ", o que pode facilitar a navegação, ainda assim é bastante inutitivo a forma como se abre o terminal sem a necessecidade deste atalho, o que não prejuidca novos usuários sem este conhecimento.
+  
+![Clear-the-terminal-in-VS-Code](https://github.com/LuisaAndrade28/Bertoti/assets/127700485/b91376f6-2df5-41c1-8bc5-db896bbdf161)
+
+
 8️⃣ **Design Estético e Minimalista**  
 "As interfaces não devem conter informações irrelevantes ou raramente necessárias."  
 - Exemplo: Design desalinhado e confuso.
