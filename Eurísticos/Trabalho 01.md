@@ -3,8 +3,13 @@
 1️⃣ **Visibilidade do Status do Sistema**  
 "O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período de tempo razoável."  
 - Exemplo: O Gmail informa quando um email foi enviado para seu destinatário.
-- Exemplo: O Pinterest informa quando um "pin" foi devidamente salvo, dando a oportunidade de organizar a pasta desejada. 
- 
+
+![Captura de tela 2024-05-02 104257](https://github.com/LuisaAndrade28/Bertoti/assets/127700485/b9a060d3-922e-4b52-a484-521435f28c3e)
+
+- Exemplo: O Pinterest informa quando um "pin" foi devidamente salvo, dando a oportunidade de organizar a pasta desejada.
+
+![Mídia](https://github.com/LuisaAndrade28/Bertoti/assets/127700485/9aec8452-ba0f-4afe-b071-876f73a85d27)
+
 2️⃣ **Correspondência entre o Sistema e o Mundo Real**  
 "O design deve falar a língua dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica."  
 - Exemplo: Um aplicativo bancário que tenha navegação simples e intuitiva, de fácil entendimento. 
