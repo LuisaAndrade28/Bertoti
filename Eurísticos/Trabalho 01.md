@@ -51,16 +51,28 @@
 
 8️⃣ **Design Estético e Minimalista**  
 "As interfaces não devem conter informações irrelevantes ou raramente necessárias."  
-- Exemplo: Design desalinhado e confuso.
+- Exemplo: Design desalinhado e confuso, díficil de navegar.
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/09057119-3b45-4024-838e-75dfe45d59ad" width="400">
+
  
 9️⃣ **Ajude os Usuários a Reconhecer, Diagnosticar e se Recuperar de Erros**  
 "As mensagens de erro devem ser expressas em linguagem simples, indicar precisamente o problema e sugerir construtivamente uma solução."  
-- Exemplo: Falta de orientação sobre a entrada correta do CPF durante o login.
- 
+- Exemplo: Falta de orientação sobre a entrada correta do CPF durante o login no Siga. Aqui além disso não é especificado onde está o erro, dando maior margem de dúvidas ao usuário.
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/bdac0297-59af-487f-bad3-9c6f8d9358c5" width="400">
+
+- Exemplo: Ao cometer o erro de sair da página antes decommitar alguma alteração nova o Github te avisa, dando a opção de discartar as alterações ou voltar a página original. 
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/a3d7c439-8c17-4b28-8df5-86f7be80e264" width="400">
+
 🔟 **Ajuda e Documentação**  
 "É melhor se o sistema não precisar de nenhuma explicação adicional."  
 - Exemplo: Erro na marcação do semestre do aluno, gerando informações incorretas sobre a data de finalização do curso.
- 
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/d5791b2b-ab86-4f74-b50f-ace758722b69" width="400">
+
+- Exemplo: O Pinterest apresenta uma série de documentos que auxiliam no uso do aplicativo/site.
+<img src="https://github.com/LuisaAndrade28/Bertoti/assets/127700485/ea3c19b0-0b4b-4fb9-8fb3-6dc1004268c1" width="400">
+
+
 ---
- 
-Link da matéria: [10 Usability Heuristics for User Interface Design](link_aqui)
+
+
+Link da matéria: [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
