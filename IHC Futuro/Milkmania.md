@@ -1,6 +1,11 @@
-# Chat Bot com Python e Lhamma CP
+![ViralhogPuppyGIF (2)](https://github.com/LuisaAndrade28/Bertoti/assets/127700485/055f7e75-b06b-46ab-9d0d-55ed9c43808e)
+
+
+# MilkMania - Chat Bot com Python e Lhamma CP
 
 Este é um projeto de chat bot desenvolvido em Python utilizando a biblioteca Lhamma CP. O bot foi construído em colaboração com Maria Luiza Guedes.
+
+Link para o google colab: https://colab.research.google.com/drive/1tStag9IhIFh9ZO5XEV4HuWGP-RITKuMb#scrollTo=11qB45virDZY
 
 ## Descrição
 
