@@ -1,6 +1,6 @@
 # Chat Bot com Python e Lhamma CP
 
-Este é um projeto de chat bot desenvolvido em Python utilizando a biblioteca Lhamma CP. O bot foi construído em colaboração com [Nome da sua colega].
+Este é um projeto de chat bot desenvolvido em Python utilizando a biblioteca Lhamma CP. O bot foi construído em colaboração com Maria Luiza Guedes.
 
 ## Descrição
 
